@@ -1,13 +1,13 @@
 # Unstructured Support Notes to Operational KPIs Pipeline
-Automatically converts unstructured, freeform customer support notes into operational KPIs by extracting issue signals, scoring customer pain, identifying escalation risk, and enabling prioritization.
 
 #### ‼️ Use Jupyter Notebook - Not Google Colab
 
 # Freeform Support Notes Extraction & Analysis
 
 ## Objective
+Automatically converts unstructured, freeform customer support notes into operational KPIs by extracting issue signals, scoring customer pain, identifying escalation risk, and enabling prioritization.
 
-This Jupyter Notebook enables Support Operations teams to proactively identify operational bottlenecks, reduce escalations, and improve customer satisfaction by transforming buried freeform notes into structured KPIs.
+Enables Support Operations teams to proactively identify operational bottlenecks, reduce escalations, and improve customer satisfaction by transforming buried freeform notes into structured KPIs.
 
 It transforms raw support notes into analyzable fields like issue type, severity, escalation status, and follow-up needs — enabling data-driven decision-making across support operations.
 
