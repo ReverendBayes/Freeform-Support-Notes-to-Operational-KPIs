@@ -91,3 +91,16 @@ Bar chart showing frequency of recurrence-related keywords per issue type. Usefu
 - **Total token usage** printed at the end for transparency.
 - The system is modular and scalable for future extensions (e.g., fallback rules, QA, human-in-the-loop).
 
+## Folder Structure
+```
+Freeform-Support-Notes-to-Operational-KPIs/
+├── README.md
+├── Support-Notes-into-Structured-Dataset.ipynb
+├── support_notes.csv
+├── Assets/
+│   ├── support_memo.pdf # A memo from the Director of Support Operations outlining the challenge of extracting actionable insights from freeform support notes, which this project solves.
+│   ├── 1.png  # problem_children_matrix
+│   ├── 2.png  # customer_pain_index
+│   ├── 3.png  # sentiment_by_resolution
+│   └── 4.png  # recurring_problem_rate
+```
